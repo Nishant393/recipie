@@ -33,7 +33,7 @@ const NavBar = () => {
                 {/* Left side menu items */}
                 <div className="flex items-center text-lg text-white space-x-2">
                     <Cookie className="mr-2" />
-                    <h1 className="font-bold text-xl">Recipe Finder</h1>
+                    <h1 className="font-bold text-xl">Cookease</h1>
                 </div>
 
                 {/* Transparent Search area */}
